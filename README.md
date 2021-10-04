@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dlacheta01
-- 👀 I’m interested in Blockchain and Data Science
-- 🌱 I’m currently learning Data Analytics, blockchain development, finance and economy. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Blockchain and Data Science/
+- 🌱 I’m currently learning Data Analytics, blockchain development, finance and economy. I'm also learning about bitcoin mining, ethereum mining, DeFi, InfoSec, among other things.
+- 💞️ I’m looking to collaborate on Blockchain projects as a Data scientist.  
+- 📫 How to reach me ... please email me to dlacheta01@gmail.com.
 
 <!---
 dlacheta01/dlacheta01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
