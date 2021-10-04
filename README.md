@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Analytics, blockchain development, finance and economy. I'm also learning about bitcoin mining, ethereum mining, DeFi, InfoSec, among other things. I've studied programming with Python, and currently learning about Solidity. Also, I have experience in Power BI, and I have studied Tableau and Google Data Studio. 
 - 💞️ I’m looking to collaborate on Blockchain projects as a Data analyst.  
 - 👅 I speak English, Spanish, and currently studying Italian. 
+- 🎓 I'm a Bussiness Administrator graduated from UADE in Buenos Aires, Argentina, and currently studying Software Development in UADE as well.  
 - 📫 How to reach me ... please email me to dlacheta01@gmail.com.
 
 <!---
