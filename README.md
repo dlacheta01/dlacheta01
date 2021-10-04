@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dlacheta01
 - 👀 I’m interested in Blockchain and Data Science
-- 🌱 I’m currently learning Data Analytics, blockchain development, economy. 
+- 🌱 I’m currently learning Data Analytics, blockchain development, finance and economy. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
